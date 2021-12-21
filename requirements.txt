@@ -27,5 +27,3 @@ six==1.16.0
 toml==0.10.2
 virtualenv==20.8.1
 Werkzeug==2.0.1
-Flask
-flask
