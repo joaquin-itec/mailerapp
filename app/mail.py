@@ -1,6 +1,6 @@
 from re import search
 from flask import (
-    Blueprint, render_template, request, flash, url_for, redirect,
+    Blueprint, render_template, request, flash, url_for, redirect, current_app
 )
 from flask.wrappers import Response
 import sendgrid
